@@ -26,7 +26,7 @@
 </div>
 
 <div display="inline-block">
-  <h1>Favorite Skills</h1>
+  <h1>Favorite's Skills</h1>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="20px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="20px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20px">
